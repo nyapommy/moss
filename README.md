@@ -1,2 +1,2 @@
-# moss
-a dungeon exploring adventure text game
+# Moss
+A dungeon exploring adventure text game

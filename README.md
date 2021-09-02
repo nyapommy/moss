@@ -3,4 +3,4 @@ A dungeon exploring adventure game where you fight enemies, loot chests, and equ
 
 Credits to:
 
-giganlak, darkitxu84, offby1, Sani, Fashoomp, Regular_Meltz, killjoy
+giganlak, darkitxu84, offby1, Sani, Fashoomp, Regular_Meltz, killjoy, Hazext
